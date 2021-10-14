@@ -298,6 +298,7 @@ namespace Pensionnaire
             else
             {
                 Console.WriteLine("La liste des animaux est vide..........");
+
             }
 
         }
